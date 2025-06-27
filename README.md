@@ -2,7 +2,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)](LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  [![GitHub contributors](https://img.shields.io/github/contributors/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  [![GitHub last-commit](https://img.shields.io/github/last-commit/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()
 
-Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abuse Recognition System** uses the BERT model to identify harmful content in online communications and provide real-time moderation support.
+Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abuse Recognition System Using BERT** uses the BERT model to identify harmful content in online communications and provide real-time moderation support.
 
 ---
 
