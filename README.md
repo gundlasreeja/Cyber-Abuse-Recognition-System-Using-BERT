@@ -1,9 +1,6 @@
 # [Cyber Abuse Recognition System Using BERT](Cyber-Abuse-Recognition-System-Using-BERT)
 
-[![GitHub license](https://img.shields.io/github/license/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)](LICENSE)  
-[![GitHub issues](https://img.shields.io/github/issues/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  
-[![GitHub contributors](https://img.shields.io/github/contributors/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  
-[![GitHub last-commit](https://img.shields.io/github/last-commit/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()
+[![GitHub license](https://img.shields.io/github/license/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)](LICENSE)  [![GitHub issues](https://img.shields.io/github/issues/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  [![GitHub contributors](https://img.shields.io/github/contributors/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()  [![GitHub last-commit](https://img.shields.io/github/last-commit/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT)]()
 
 Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abuse Recognition System** uses the BERT model to identify harmful content in online communications and provide real-time moderation support.
 
@@ -35,14 +32,14 @@ Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abus
 
 ## Limitations & Future Work
 
-### Limitations
+## Limitations
 
 - Struggles with false positives/negatives  
 - Heavy dependence on labeled data  
 - Not real-time yet  
 - Slower on large datasets with limited hardware
 
-### Future Work
+## Future Work
 
 - Real-time detection  
 - Integration with browser extensions  
@@ -92,12 +89,12 @@ flask_sqlalchemy
 python-dotenv
 ```
 ## Setup and Installation
-Clone the Repository
+1. Clone the Repository
   ```
 git clone https://github.com/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT.git
 cd Cyber-Abuse-Recognition-System-Using-BERT
 ```
-Install Backend Requirements
+2. Install Backend Requirements
 ```
 pip install -r requirements.txt
 ```
@@ -106,7 +103,7 @@ Set Up Environment Variables
 FLASK_APP=wsgi.py
 FLASK_ENV=development
 ```
-Run Flask Application
+3. Run Flask Application
 ```
 python wsgi.py
 ```
@@ -125,12 +122,17 @@ The system returns whether the input is abusive or not.
 ## Screenshots
 **Login Page**
 ![Image](https://github.com/user-attachments/assets/b1580c48-e66f-4889-9c5c-7950eb9b9f0b)
+
 **Sign Up Page**
 ![Image](https://github.com/user-attachments/assets/6c176e3e-3a5f-4442-bc47-f048bd476797)
+
 **Results Pages**
 ![Image](https://github.com/user-attachments/assets/3b45b130-0960-452f-b95c-40ea35670591)
+
 ![Image](https://github.com/user-attachments/assets/d5df795a-7828-4fea-bb36-024098d1fd9d)
+
 ![Image](https://github.com/user-attachments/assets/306cf51c-a518-4d94-8871-ebd1c960d4f1)
+
 ![Image](https://github.com/user-attachments/assets/351d302b-4794-417a-bce4-17758da7ef5e)
 
 ## License
