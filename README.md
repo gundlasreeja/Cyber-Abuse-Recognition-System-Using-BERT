@@ -53,12 +53,12 @@ Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abus
 
 ## Features
 
-- ✅ BERT-based deep learning model for text classification  
-- ✅ Preprocessing pipeline (lowercase, punctuation removal, stopwords)  
-- ✅ Flask backend with REST API  
-- ✅ React frontend  
-- ✅ MySQL database support  
-- ✅ Accuracy improvement from 93.5% to 96.5%
+-  BERT-based deep learning model for text classification  
+-  Preprocessing pipeline (lowercase, punctuation removal, stopwords)  
+-  Flask backend with REST API  
+-  React frontend  
+-  MySQL database support  
+-  Accuracy improvement from 93.5% to 96.5%
 
 ---
 
@@ -98,16 +98,16 @@ cd Cyber-Abuse-Recognition-System-Using-BERT
 ```
 pip install -r requirements.txt
 ```
-Set Up Environment Variables
+3. Set Up Environment Variables
 ```
 FLASK_APP=wsgi.py
 FLASK_ENV=development
 ```
-3. Run Flask Application
+4. Run Flask Application
 ```
 python wsgi.py
 ```
-Run Frontend (if using React)
+5. Run Frontend (if using React)
 ```
 cd frontend
 npm install
