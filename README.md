@@ -67,20 +67,20 @@ Detect and prevent cyber abuse with the power of deep learning. The **Cyber Abus
 
 ## Requirements
 
-### Hardware
+## Hardware
 
 - CPU: Intel i3 or better  
 - RAM: 8 GB or more  
 - Storage: 500 GB or more  
 
-### Software
+## Software
 
 - **Frontend**: React JS  
 - **Backend**: Python 3.11  
 - **Web Framework**: Flask  
 - **Database**: MySQL  
 
-### Python Libraries
+## Python Libraries
 
 ```bash
 transformers
@@ -91,7 +91,7 @@ flask
 flask_sqlalchemy
 python-dotenv
 ```
-### Setup and Installation
+## Setup and Installation
 Clone the Repository
   ```
 git clone https://github.com/gundlasreeja/Cyber-Abuse-Recognition-System-Using-BERT.git
@@ -116,18 +116,23 @@ cd frontend
 npm install
 npm start
 ```
-### Usage
+## Usage
 Navigate to the web application.
 Enter a sentence or comment into the input field.
 Submit the text.
 The system returns whether the input is abusive or not.
 
-### Screenshots
-Home Page
+## Screenshots
+**Login Page**
+![Image](https://github.com/user-attachments/assets/b1580c48-e66f-4889-9c5c-7950eb9b9f0b)
+**Sign Up Page**
+![Image](https://github.com/user-attachments/assets/6c176e3e-3a5f-4442-bc47-f048bd476797)
+**Results Pages**
+![Image](https://github.com/user-attachments/assets/3b45b130-0960-452f-b95c-40ea35670591)
+![Image](https://github.com/user-attachments/assets/d5df795a-7828-4fea-bb36-024098d1fd9d)
+![Image](https://github.com/user-attachments/assets/306cf51c-a518-4d94-8871-ebd1c960d4f1)
+![Image](https://github.com/user-attachments/assets/351d302b-4794-417a-bce4-17758da7ef5e)
 
-Sign Up Page
-
-Detection Result
 ## License
 
 This project is licensed under the [Apache License 2.0](LICENSE) - see the [LICENSE](LICENSE) file for details.
