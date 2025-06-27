@@ -122,21 +122,27 @@ The system returns whether the input is abusive or not.
 ## Screenshots
 
 **Login Page**
+
 ![Image](https://github.com/user-attachments/assets/b1580c48-e66f-4889-9c5c-7950eb9b9f0b)
 
 **Register Page**
+
 ![Image](https://github.com/user-attachments/assets/6c176e3e-3a5f-4442-bc47-f048bd476797)
 
 **Message Page1**
+
 ![Image](https://github.com/user-attachments/assets/3b45b130-0960-452f-b95c-40ea35670591)
 
 **Result Page1**
+
 ![Image](https://github.com/user-attachments/assets/d5df795a-7828-4fea-bb36-024098d1fd9d)
 
 **Message Page2**
+
 ![Image](https://github.com/user-attachments/assets/306cf51c-a518-4d94-8871-ebd1c960d4f1)
 
 **Result Page2**
+
 ![Image](https://github.com/user-attachments/assets/351d302b-4794-417a-bce4-17758da7ef5e)
 
 ## License
